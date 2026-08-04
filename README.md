@@ -36,4 +36,4 @@ C# (Visual Studio)
 
 .NET Framework/.NET Core
 
-SQL Server (for data storage)
+Microsoft Access (for data storage)
